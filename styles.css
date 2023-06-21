@@ -1,7 +1,7 @@
 .pargr-4{
     text-align: center;
     font-style: oblique;
-    font-size: 24px;
+    font-size: 30px;
     color: black;
     text-shadow: 3px -4px 5px #055c22; ;
 }
@@ -12,11 +12,19 @@
 }
 
 .desc{
-    text-align: center;
+    text-align: justify;
     font-style: normal;
-    font-size: 26px;
-    color: black;
+    font-size: 14px;
+    color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
     text-shadow: 3px -4px 5px #055c22; ;
 }
 
+.wid{
+    text-align: center;
+    font-style: bold;
+    font-size: 12px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 3px -4px 5px #055c22; ; 
+}
